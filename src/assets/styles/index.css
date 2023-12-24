@@ -601,7 +601,7 @@ header .header_list a:hover {
   #apropos .apropos_me img {
     display: flex;
     width: 20%;
-    margin-left: 500px;
+    margin-right: 350px;
   }
   #apropos .apropos_me .apropos_me_button {
     margin-top: 30px;
@@ -752,7 +752,7 @@ header .header_list a:hover {
     background-color: black;
   }
   #competences img {
-    width: 10%;
+    width: 8%;
     margin: 15px;
   }
 }

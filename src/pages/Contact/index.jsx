@@ -24,10 +24,6 @@ const Contact = () => {
                             <i className="fa-solid fa-location-dot"></i>
                             <p id="ppp">Beauvais et ses alentours</p>
                         </div>
-                        <div className="contact__info__list__bullet">
-                            <i className="fa-solid fa-desktop"></i>                            
-                            <p id="ppp">Télétravail</p>
-                        </div>
                     </div>
                 </div>
                 </div>
