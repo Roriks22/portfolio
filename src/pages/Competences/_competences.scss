@@ -1,0 +1,129 @@
+#competences {
+    h2{
+    font-size: 35px;
+    background-color: #F9E4B7;
+    color: black;
+    text-align: center;
+    }
+    h3 {
+        font-size: 25px;
+        color: #F9E4B7;
+        text-align: center;
+    }
+    .logo_langage {
+        display: flex;
+        flex-direction: row;
+        height: 200px;
+        background-color: black;
+    }
+    img {
+        width: 10%;
+        margin: 15px;
+    }
+}
+
+@media (min-width: 375px) {
+    #competences {
+        h2{
+        font-size: 35px;
+        background-color: #F9E4B7;
+        color: black;
+        text-align: center;
+        }
+        h3 {
+            font-size: 25px;
+            color: #F9E4B7;
+            text-align: center;
+        }
+        .logo_langage {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            height: 200px;
+            background-color: black;
+        }
+        img {
+            width: 10%;
+            margin: 15px;
+        }
+    }
+}
+
+@media (min-width: 650px) {
+    #competences {
+        h2{
+        font-size: 35px;
+        background-color: #F9E4B7;
+        color: black;
+        text-align: center;
+        }
+        h3 {
+            font-size: 25px;
+            color: #F9E4B7;
+            text-align: center;
+        }
+        .logo_langage {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            height: 200px;
+            background-color: black;
+        }
+        img {
+            width: 10%;
+            margin: 15px;
+        }
+    }
+}
+
+@media (min-width: 1024px) {
+    #competences {
+        h2{
+        font-size: 35px;
+        background-color: #F9E4B7;
+        color: black;
+        text-align: center;
+        }
+        h3 {
+            font-size: 25px;
+            color: #F9E4B7;
+            text-align: center;
+        }
+        .logo_langage {
+            display: flex;
+            flex-direction: row;
+            height: 200px;
+            background-color: black;
+        }
+        img {
+            width: 10%;
+            margin: 15px;
+        }
+    }
+}
+
+@media (min-width: 1400px) {
+    #competences {
+        h2{
+        font-size: 35px;
+        background-color: #F9E4B7;
+        color: black;
+        text-align: center;
+        }
+        h3 {
+            font-size: 25px;
+            color: #F9E4B7;
+            text-align: center;
+        }
+        .logo_langage {
+            display: flex;
+            flex-direction: row;
+            height: 200px;
+            background-color: black;
+        }
+        img {
+            width: 10%;
+            margin: 15px;
+        }
+    }
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("../fonts/Montserrat/Montserrat-VariableFont_wght.ttf") format("truetype");
+    font-weight: 500;
+   }
+
+#root {
+    max-width: 1440px;
+    margin: auto;
+    font-family: Montserrat;
+}

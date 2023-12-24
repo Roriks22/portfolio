@@ -1,0 +1,12 @@
+// Import de tous les composants et les pages scss.
+@import '../fonts/Montserrat/index.scss';
+@import '../../app';
+@import '../../components/Header/header';
+@import '../../pages/Home/home';
+@import '../../components/Banner/banner';
+@import '../../pages/Apropos/apropos';
+@import '../../pages/Competences/competences';
+@import '../../pages/Portfolio/portfolio';
+@import '../../components/Modal/modal';
+@import '../../pages/Contact/contact';
+@import '../../components/Footer/footer';

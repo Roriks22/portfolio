@@ -1,0 +1,100 @@
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 10px;
+    background-color: black;
+  }
+  header .header_name {
+    margin: auto;
+    color: #F9E4B7;
+    font-weight: 600;
+    font-size: 30px;
+  }
+  header .header_list {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 25px;
+    color: white;
+  }
+  header .header_list a {
+    display: inline-block;
+    width: 48%;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 5px;
+  }
+  header .header_list a:hover {
+    color: #F9E4B7;
+  }
+  
+  .focus {
+    color: #F9E4B7;
+    font-weight: 600;
+  }
+  
+  .focus__italic {
+    color: #F9E4B7;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  @media (min-width: 375px) {
+    header .header_list {
+      margin-top: 20px;
+    }
+    header .header_list a {
+      width: auto;
+      font-size: 10px;
+    }
+  }
+
+  @media (min-width: 500px) {
+    header .header_list {
+      margin-top: 20px;
+    }
+    header .header_list a {
+      width: auto;
+      font-size: 10px;
+    }
+  }
+  @media (min-width: 768px) {
+    header .header_list a {
+      font-size: 22px;
+      color: #F9E4B7;
+    }
+  }
+  @media (min-width: 1024px) {
+    header {
+      flex-direction: row;
+      padding: 30px 50px;
+    }
+    header .header_name {
+      margin-left: 0px;
+    }
+    header .header_list {
+      margin-top: 10px;
+      width: 60%;
+    }
+  }
+  @media (min-width: 1200px) {
+    header .header_list {
+      margin-top: 6px;
+    }
+    header .header_list a {
+      font-size: 16px;
+      color: white;
+    }
+  }
+  @media (min-width: 1440px) {
+    header .header_list {
+      width: 50%;
+      margin: 5px 10px 0px 10px;
+    }
+  }

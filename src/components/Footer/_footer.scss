@@ -1,0 +1,38 @@
+.footer {
+    width: 100%;
+    padding: 0;
+    background-color: #F9E4B7;
+    color: #F9E4B7;
+    text-align: center;
+  }
+  .footer img {
+    width: 35%;
+  }
+  .footer p {
+    margin: 50px 0;
+    color: black;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 500;
+  }
+
+  @media (min-width: 768px) {
+    .footer {
+      width: 100%;
+      padding: 0;
+      background-color: #F9E4B7;
+      color: #F9E4B7;
+      text-align: center;
+    }
+    .footer img {
+      width: 5%;
+    }
+    .footer p {
+      margin: 50px 0;
+      color: black;
+      font-size: 15px;
+      line-height: 35px;
+      font-weight: 500;
+    }
+  }
+  
