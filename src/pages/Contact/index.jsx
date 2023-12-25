@@ -10,7 +10,7 @@ const Contact = () => {
                     <div className="contact__info__list">
                         <div className="contact__info__list__bullet">
                             <i className="fa-brands fa-linkedin"></i>     
-                            <a href="https://www.linkedin.com/in/romain-jacquesson-450422168/" target="_blank" rel='noopener noreferrer'>LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/romain-jacquesson-450422168/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                         </div>
                         <div className="contact__info__list__bullet">
                             <i className="fa-solid fa-phone"></i>
