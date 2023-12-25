@@ -38,6 +38,10 @@ const Modal = ({ isOpen, onClose, projet }) => {
         }
     };
 
+    const handleRefresh = () => {
+        window.location.reload();
+    };
+
     const nextImage = () => {
         const newIndex = currentImageIndex + 1;
         setCurrentImageIndex(newIndex >= images.length ? 0 : newIndex);
@@ -80,10 +84,11 @@ const Modal = ({ isOpen, onClose, projet }) => {
             <div className="modal__content">
                 <h2>{projet.title}</h2>
                 <div className="modal__carousel">
+                <button onClick={handleRefresh}>Retour</button>
                     <button onClick={prevImage}>&lt;</button>
                     {/* {Utilisation de l'image actuelle du tableau d'images */}
                     <img src={images[currentImageIndex]} alt={`Image ${currentImageIndex + 1} for ${projet.title}`} />
-                    <button onClick={nextImage}>&gt;</button>
+                    <button onClick={nextImage}>&gt;</button> 
                 </div>
                 <div className="modal__skills__and__links">
                     <ul>
