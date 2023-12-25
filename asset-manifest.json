@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.23153c12.css",
+    "main.js": "/portfolio/static/js/main.cea35b77.js",
+    "static/media/NinaCarducci__PC2.png": "/portfolio/static/media/NinaCarducci__PC2.bbbad60e6a19b9aa6744.png",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/portfolio/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/Kaza__PC.png": "/portfolio/static/media/Kaza__PC.64cd3b0eb0575925c892.png",
+    "static/media/MenuMaker__PC.png": "/portfolio/static/media/MenuMaker__PC.be7da0a8d86b0225c7fd.png",
+    "static/media/Kaza__PC3.png": "/portfolio/static/media/Kaza__PC3.d4d6ad73ad1b1ff37773.png",
+    "static/media/VieuxGrimoire__PC2.png": "/portfolio/static/media/VieuxGrimoire__PC2.af9e7f51819fde0fa2a6.png",
+    "static/media/Kaza__PC2.png": "/portfolio/static/media/Kaza__PC2.9aee7990a136ed08e203.png",
+    "static/media/SophieBluel__PC5.png": "/portfolio/static/media/SophieBluel__PC5.ba3aef19e0be19a487cf.png",
+    "static/media/photodeprofil.JPG": "/portfolio/static/media/photodeprofil.16472fbd09415dd7f006.JPG",
+    "static/media/Booki__PC.png": "/portfolio/static/media/Booki__PC.7db4aacab52a4361cf04.png",
+    "static/media/SophieBluel__PC.png": "/portfolio/static/media/SophieBluel__PC.725f4f53f796dcc2efbd.png",
+    "static/media/MenuMaker__PC3.png": "/portfolio/static/media/MenuMaker__PC3.610b0ab95a388c17fae4.png",
+    "static/media/NinaCarducci__PC.png": "/portfolio/static/media/NinaCarducci__PC.07d2024fd695e138616c.png",
+    "static/media/VieuxGrimoire__PC.png": "/portfolio/static/media/VieuxGrimoire__PC.a858473190ff37451014.png",
+    "static/media/SophieBluel__PC3.png": "/portfolio/static/media/SophieBluel__PC3.23d7a2d2b5ca72e116f2.png",
+    "static/media/MenuMaker__PC2.png": "/portfolio/static/media/MenuMaker__PC2.b1eb8b94533157996f9e.png",
+    "static/media/SophieBluel__PC4.png": "/portfolio/static/media/SophieBluel__PC4.b28652a078babb4ba926.png",
+    "static/media/DevWeb.jpg": "/portfolio/static/media/DevWeb.df38ce943b6a8460b8ac.jpg",
+    "static/media/NinaCarducci__PC3.png": "/portfolio/static/media/NinaCarducci__PC3.7350429da61116dfe792.png",
+    "static/media/Booki__MO.png": "/portfolio/static/media/Booki__MO.11d38347081b0c14cbc6.png",
+    "static/media/VieuxGrimoire__PC3.png": "/portfolio/static/media/VieuxGrimoire__PC3.7d70fbd6cab6a6089f63.png",
+    "static/media/SophieBluel__PC2.png": "/portfolio/static/media/SophieBluel__PC2.8fb7cb3075cd1fd2c328.png",
+    "index.html": "/portfolio/index.html",
+    "main.23153c12.css.map": "/portfolio/static/css/main.23153c12.css.map",
+    "main.cea35b77.js.map": "/portfolio/static/js/main.cea35b77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23153c12.css",
+    "static/js/main.cea35b77.js"
+  ]
+}
