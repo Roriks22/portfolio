@@ -14,7 +14,7 @@ const Apropos = () => {
                     <a className="github_link" href="https://github.com/Roriks22" target="_blank" rel="noopener noreferrer">
                         <i className="fa-brands fa-github" style={{ color: '#000000' }}></i>GitHub
                     </a>
-                    <a className="cv_link" href="https://romainjacquessoncv.files.wordpress.com/2023/12/cv-romain-jacquesson-2.pdf" target="_blank" rel='noopener noreferrer'>
+                    <a className="cv_link" href="https://cvromainjacquesson.files.wordpress.com/2024/01/cv_romain_jacquesson-1.pdf" target="_blank" rel='noopener noreferrer'>
                         Afficher mon CV 
                     </a>  
                 </div>                
